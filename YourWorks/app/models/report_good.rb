@@ -1,0 +1,2 @@
+class ReportGood < ApplicationRecord
+end

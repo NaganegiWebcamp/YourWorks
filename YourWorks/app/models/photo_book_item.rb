@@ -1,0 +1,2 @@
+class PhotoBookItem < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class UserWorkRelationship < ApplicationRecord
+end

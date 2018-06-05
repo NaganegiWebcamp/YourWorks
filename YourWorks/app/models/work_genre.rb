@@ -1,0 +1,2 @@
+class WorkGenre < ApplicationRecord
+end
